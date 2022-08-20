@@ -48,10 +48,16 @@ input{
 }
 
 .icons2{
-    margin-right: -170px;
+    margin-right: -165px;
+    display: flex;
+    gap: 12px;
 }
 
 img{
     border-radius: 217.5px;
     width: 30px;
+}
+
+.informacoes{
+    display: flex;
 }
