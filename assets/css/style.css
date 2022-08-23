@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,100&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -5,7 +7,7 @@
 }
 
 body{
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #ffff;
     font-weight: 400;
     border: 1px solid red;
@@ -60,4 +62,35 @@ img{
 
 .informacoes{
     display: flex;
+    gap: 45px;
+    align-items: center;
+    justify-content: start;
+    margin-top: 65px;
+    margin-left: 89px;
+    padding: 15px;
+    border-bottom: 1px solid #C7C7C8;
 }
+
+.photos{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.users{
+    display:flex;
+    gap: 10px;
+    align-items: center;
+    color: #898E94;
+}
+
+.collections{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color:  #898E94;
+}
+
+
+
+
