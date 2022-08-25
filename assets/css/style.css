@@ -53,11 +53,13 @@ input{
     margin-right: -165px;
     display: flex;
     gap: 12px;
+   
 }
 
 img{
     border-radius: 217.5px;
     width: 30px;
+    margin-top: 6px;
 }
 
 .informacoes{
@@ -91,6 +93,21 @@ img{
     color:  #898E94;
 }
 
+a{
+    padding: 3px 12px;
+    border: 1px solid #ffff;
+    border-radius: 9px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.football{
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+}
 
 
 
