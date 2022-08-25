@@ -7,11 +7,14 @@
 }
 
 body{
+
+    
     font-family: 'Poppins', sans-serif;
     color: #ffff;
     font-weight: 400;
-    border: 1px solid red;
-    height: 100vh;
+    
+    width: 100%;
+    height: 100%;
     background-color: rgb(44, 44, 44);
 }
 
@@ -22,7 +25,7 @@ header{
     justify-content: center;
     justify-content: space-around;
    
-    border: 1px solid yellow;
+    
     padding: 20px 0px;
     
 }
@@ -56,7 +59,7 @@ input{
    
 }
 
-img{
+#perfil{
     border-radius: 217.5px;
     width: 30px;
     margin-top: 6px;
@@ -67,7 +70,7 @@ img{
     gap: 45px;
     align-items: center;
     justify-content: start;
-    margin-top: 65px;
+    margin-top: 30px;
     margin-left: 89px;
     padding: 15px;
     border-bottom: 1px solid #C7C7C8;
@@ -102,12 +105,19 @@ a{
 }
 
 .football{
+    margin-right: -60px;
     margin-top: 35px;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 45px;
 }
+
+
+
+
+
+
 
 
 
