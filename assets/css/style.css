@@ -41,6 +41,7 @@ input{
     border: none;
     padding: 9px 28px;
     width: 420px;
+    margin-right: -450px;
     
 }
 
@@ -49,11 +50,16 @@ input{
     gap: 25px;
     font-size: 14px;
     color: #9AA0A6;
+    border-radius: 31.5px;
+    padding: 9px 28px;
+    background-color: #303134;
+    margin-right: -230px;
+    /*border: 1px solid red;*/
     
 }
 
 .icons2{
-    margin-right: -165px;
+    margin-right: -320px;
     display: flex;
     gap: 12px;
    
